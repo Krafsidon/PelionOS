@@ -1,2 +1,4 @@
 # PelionOS
-The Page For Our Linux Distro
+This is the official page for our linux distro.
+Post any issues here!
+Our Other Parts of Pelion OS will be available soon!
